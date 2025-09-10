@@ -4,4 +4,4 @@ Made for tracking my progress
 
 ### Introduction
 
-- [x] `Uploaded` - 001 - Introduction And What Is JavaScript ?
+- [x] `Done` - 001 - Introduction And What Is JavaScript ?
