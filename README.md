@@ -7,3 +7,5 @@ Made for tracking my progress
 - [x] `Done` - 002 - How To Use Notion For Organizing My Studies ?
 - [x] `Done` - 003 - Made A Full Plan On How And What To Do.
 - [x] `Done` - 004 - Gitting The Enviroment Ready Before Starting.
+- [x] `Done` - 005 - What Is ECMAScript ?
+- [x] `Done` - 005 - What Is ECMAScript ?
