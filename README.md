@@ -10,3 +10,4 @@ Made for tracking my progress
 - [x] `Done` - 005 - Output To Screen And Console
 - [x] `Done` - 006 - What Is ECMAScript ?
 - [x] `Done` - 007 - Comments
+- [x] `Done` - 007 - Data Types
