@@ -11,3 +11,4 @@ Made for tracking my progress
 - [x] `Done` - 006 - What Is ECMAScript ?
 - [x] `Done` - 007 - Comments
 - [x] `Done` - 007 - Data Types
+- [x] `Done` - 007 - Variables
