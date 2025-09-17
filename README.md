@@ -10,5 +10,6 @@ Made for tracking my progress
 - [x] `Done` - 005 - Output To Screen And Console
 - [x] `Done` - 006 - What Is ECMAScript ?
 - [x] `Done` - 007 - Comments
-- [x] `Done` - 007 - Data Types
-- [x] `Done` - 007 - Variables
+- [x] `Done` - 008 - Data Types
+- [x] `Done` - 009 - Variables
+- [x] `Done` - 010 - Identifiers, Conventions, Rules
